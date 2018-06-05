@@ -1,3 +1,7 @@
-#settwo {
+#settwo, #duck {
   display: none;
+}
+
+.btn-primary:hover {
+  background-color: : black !important;
 }
